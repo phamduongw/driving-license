@@ -1,0 +1,84 @@
+id,name,detail,img
+W.201a,Chỗ ngoặt nguy hiểm bên trái,Biển báo đường sắp đến chỗ ngoặt nguy hiểm.,W201a
+W.201b,Chỗ ngoặt nguy hiểm bên phải,Biển báo đường sắp đến chỗ ngoặt nguy hiểm.,W201b
+W.201c,Chỗ ngoặt nguy hiểm có nguy cơ lật bên phải,Biển số W.201c chỗ ngoặt nguy hiểm có nguy cơ lật xe bên phải khi đường cong vòng sang trái.,W201c
+W.201d,Chỗ ngoặt nguy hiểm có nguy cơ lật bên trái,Biển số W.201d chỗ ngoặt nguy hiểm có nguy cơ lật xe bên trái khi đường cong vòng bên phải.,W201d
+W.202a,Nhiều chỗ ngoặt nguy hiểm liên tiếp,"Biển báo sắp đến đoạn đường ngoặt liên tiếp (có từ 3 đoạn cong ngược chiều nhau) rất nguy hiểm, người lái xe cần giảm tốc độ.",W202a
+W.202b,Nhiều chỗ ngoặt nguy hiểm liên tiếp,"Biển báo sắp đến đoạn đường ngoặt liên tiếp (có từ 3 đoạn cong ngược chiều nhau) rất nguy hiểm, người lái xe cần giảm tốc độ.",W202b
+W.203a,Đường bị hẹp cả hai bên,Biển báo sắp đến chỗ một đoạn đường bị hẹp đột ngột.,W203a
+W.203b,Đường bị hẹp bên trái,Biển báo sắp đến chỗ một đoạn đường bị hẹp đột ngột.,W203b
+W.203c,Đường bị hẹp bên phải,Biển báo sắp đến chỗ một đoạn đường bị hẹp đột ngột.,W203c
+W.204,Đường hai chiều,"Biển báo hiệu sắp đến đoạn đường chỉ có một làn đường mà tạm thời (đường do sửa chữa hoặc có trở ngại ở một phía đường mà phải tổ chức đi lại cho phương tiện cả hai chiều trên phía đường còn lại) hay thường xuyên các chiều xe đi và về vẫn phải dùng chung. Khi qua đoạn đường này, lái xe cần thận trọng với xe phía chiều ngược lại.",W204
+W.205a,Nơi giao nhau của đường đồng cấp,Biển báo hiệu sắp đến nơi giao nhau của các tuyến đường cùng cấp (không có đường nào ưu tiên) trên cùng một mặt bằng.,W205a
+W.205b,Nơi giao nhau của đường đồng cấp,Biển báo hiệu sắp đến nơi giao nhau của các tuyến đường cùng cấp (không có đường nào ưu tiên) trên cùng một mặt bằng.,W205b
+W.205c,Nơi giao nhau của đường đồng cấp,Biển báo hiệu sắp đến nơi giao nhau của các tuyến đường cùng cấp (không có đường nào ưu tiên) trên cùng một mặt bằng.,W205c
+W.205d,Nơi giao nhau của đường đồng cấp,Biển báo hiệu sắp đến nơi giao nhau của các tuyến đường cùng cấp (không có đường nào ưu tiên) trên cùng một mặt bằng.,W205d
+W.205e,Nơi giao nhau của đường đồng cấp,Biển báo hiệu sắp đến nơi giao nhau của các tuyến đường cùng cấp (không có đường nào ưu tiên) trên cùng một mặt bằng.,W205e
+W.206,Giao nhau chạy theo vòng xuyến,"Biển báo hiệu nơi giao nhau có bố trí đảo an toàn ở giữa điểm giao, các loại xe qua điểm giao vòng trái phải đi vòng xuyến qua đảo an toàn.",W206
+W.207a,Giao nhau với đường không ưu tiên,Biển báo hiệu đường ưu tiên sắp đến nơi giao nhau với đường không ưu tiên.,W207a
+W.207b,Giao nhau với đường không ưu tiên,Biển báo hiệu đường ưu tiên sắp đến nơi giao nhau với đường không ưu tiên.,W207b
+W.207c,Giao nhau với đường không ưu tiên,Biển báo hiệu đường ưu tiên sắp đến nơi giao nhau với đường không ưu tiên.,W207c
+W.207d,Giao nhau với đường không ưu tiên,Biển báo hiệu đường ưu tiên sắp đến nơi giao nhau với đường không ưu tiên.,W207d
+W.207e,Giao nhau với đường không ưu tiên,Biển báo hiệu đường ưu tiên sắp đến nơi giao nhau với đường không ưu tiên.,W207e
+W.207f,Giao nhau với đường không ưu tiên,Biển báo hiệu đường ưu tiên sắp đến nơi giao nhau với đường không ưu tiên.,W207f
+W.207g,Giao nhau với đường không ưu tiên,Biển báo hiệu đường ưu tiên sắp đến nơi giao nhau với đường không ưu tiên.,W207g
+W.207h,Giao nhau với đường không ưu tiên,Biển báo hiệu đường ưu tiên sắp đến nơi giao nhau với đường không ưu tiên.,W207h
+W.207i,Giao nhau với đường không ưu tiên,Biển báo hiệu đường ưu tiên sắp đến nơi giao nhau với đường không ưu tiên.,W207i
+W.207k,Giao nhau với đường không ưu tiên,Biển báo hiệu đường ưu tiên sắp đến nơi giao nhau với đường không ưu tiên.,W207k
+W.207l,Giao nhau với đường không ưu tiên,Biển báo hiệu đường ưu tiên sắp đến nơi giao nhau với đường không ưu tiên.,W207l
+W.208,Giao nhau với đường ưu tiên,"Biển báo hiệu đường không đươc ưu tiên sắp đến nơi giao nhau với đường ưu tiên (biển được đặt trên đường không ưu tiên). Các xe đi trên đường có đặt biển này phải nhường đường cho xe đi trên đường ưu tiên khi qua nơi giao nhau, trừ các loại xe được ưu tiên theo Luật Giao thông đường bộ.",W208
+W.209,Giao nhau có tín hiệu đèn,Biển báo hiệu nơi giao nhau có sự điều khiển giao thông bằng tín hiệu đèn.,W209
+W.210,Giao nhau với đường sắt có rào chắn,Biển báo hiệu sắp đến chỗ giao nhau giữa đường bộ và đường sắt có rào chắn kín hay nửa kín ở cả hai bên đường sắt và có nhân viên ngành đường sắt điều khiển giao thông.,W210
+W.211a,Giao nhau với đường sắt không có rào chắn,"Biển báo hiệu sắp đến chỗ giao nhau giữa đường bộ và đường sắt hoặc đường bộ và đường sắt có từng đoạn đi chung với nhau không có rào chắn, không có người điều khiển giao thông.",W211a
+W.211b,Giao nhau với đường tàu điện,Biển báo hiệu sắp đến chỗ giao nhau cùng mức giữa đường bộ với đường tàu điện.,W211b
+W.212,Cầu hẹp,"Biển báo hiệu sắp đến cầu hẹp (loại cầu có chiều rộng lòng cầu nhỏ hơn hoặc bằng 4,5 m). Khi qua cầu này, lái xe phải đi chậm, quan sát, nhường nhau và dừng lại chờ ở hai đầu cầu.",W212
+W.213,Cầu tạm,Biển báo hiệu sắp đến cầu tạm (loại cầu được làm để sử dụng tạm thời cho xe qua lại). Khi gặp biển này lái xe cần thận trọng và lưu ý sau mỗi trận mưa lũ hoặc khi nước ngập nhất thiết không qua cầu.,W213
+W.214,Cầu xoay-cầu cất,"Biển báo hiệu sắp đến cầu xoay, cầu cất (loại cầu trong từng thời gian có cắt giao thông đường bộ để cho tàu thuyền qua lại). Các phương tiện đi trên đường bộ phải chờ đợi.",W214
+W.215a,"Kè, vực sâu phía trước","Biển báo hiệu sắp đến những chỗ có kè, vực sâu hoặc bờ sông áp sát đường, lái xe cần đề phòng tình huống nguy hiểm vượt kè, tụt xuống vực sâu (thường xảy ra ở những chỗ nguy hiểm).",W215a
+W.215b,"Kè, vực sâu bên đường phía bên phải","Biển báo hiệu sắp đến những chỗ có kè, vực sâu hoặc bờ sông áp sát đường, lái xe cần đề phòng tình huống nguy hiểm vượt kè, tụt xuống vực sâu (thường xảy ra ở những chỗ nguy hiểm).",W215b
+W.215c,"Kè, vực sâu bên đường phía bên trái","Biển báo hiệu sắp đến những chỗ có kè, vực sâu hoặc bờ sông áp sát đường, lái xe cần đề phòng tình huống nguy hiểm vượt kè, tụt xuống vực sâu (thường xảy ra ở những chỗ nguy hiểm).",W215c
+W.216a,Đường ngầm,"Biển báo hiệu sắp đến chỗ có đường ngầm (đường tràn), đoạn đường vượt qua sông, suối, khe cạn mà nước có thể tràn qua thường xuyên hoặc khi có lũ.",W216a
+W.216b,Đường ngầm có nguy cơ lũ quét,"Biển báo hiệu sắp đến chỗ có đường ngầm (đường tràn), đoạn đường vượt qua sông, suối, khe cạn thường xuyên có lũ quét.",W216b
+W.217,Bến phà,Biển báo hiệu sắp đến bến phà. Người tham gia giao thông đường bộ phải tuân theo nội quy bến phà.,W217
+W.218,Cửa chui,"Biển báo hiệu sắp đến chỗ đường có cổng chui, kiểu cổng tò vò chắn ngang như cổng đường hầm, cổng thành, cầu vượt đường bộ dạng cầu vòm...",W218
+W.219,Dốc xuống nguy hiểm,Biển báo hiệu sắp đến chỗ dốc xuống nguy hiểm. Trị số ghi trong biển chỉ độ dốc thực tế tính bằng %.,W219
+W.220,Dốc lên nguy hiểm,Biển báo hiệu sắp đến chỗ dốc lên nguy hiểm. Trị số ghi trong biển chỉ độ dốc thực tế tính bằng %.,W220
+W.221a,"Đường ổ gà, sống trâu",,W221a
+W.221b,Đường có gồ giảm tốc,"Biển số W.221b báo hiệu đoạn “Đường có gồ giảm tốc” để cảnh báo xe đi chậm trước khi qua những điểm có gồ giảm tốc phía trước hoặc những vị trí tiếp giáp với đầu cầu, cống bị lún, võng;",W221b
+W.222a,Đường trơn,"Biển báo hiệu sắp đến đoạn đường có thể xảy ra trơn trượt đặc biệt là khi thời tiết xấu, mưa phùn. Lái xe cần tránh hãm phanh, tăng ga, sang số đột ngột hoặc cho xe chạy với tốc độ cao.",W222a
+W.222b,Lề đường nguy hiểm,,W222b
+W.223a,Vách núi nguy hiểm,,W223a
+W.223b,Vách núi nguy hiểm,,W223b
+W.224,Đường người đi bộ cắt ngang,Biển báo hiệu sắp đến phần đường ngang dành cho người đi bộ. Gặp biển này các lái xe phải nhường đường cho người đi bộ.,W224
+W.225,Trẻ em,"Biển báo hiệu gần đến đoạn đường thường có trẻ em đi ngang qua hoặc tụ tập trên đường như ở vườn trẻ, trường học, câu lạc bộ đi ra. Chiều dài của đoạn đường này có thể được chỉ dẫn bằng biển phụ số 501 “Phạm vi tác dụng của biển” đặt bên dưới biển chính.",W225
+W.226,Đường người đi xe đạp cắt ngang,Biển báo hiệu gần đến chỗ thường có người đi xe đạp từ những đường nhỏ cắt ngang qua hoặc từ đường dành cho xe đạp đi nhập vào đường ô tô.,W226
+W.227,Công trường,,W227
+W.228a,Đá lở,,W228a
+W.228b,Đá lở,,W228b
+W.228c,Sỏi đá bắn lên,,W228c
+W.228d,Nền đường yếu,,W228d
+W.229,Dải máy bay lên xuống,,W229
+W.230,Gia súc,,W230
+W.231,Thú rừng vượt qua đường,,W231
+W.232,Gió ngang,,W232
+W.233,Nguy hiểm khác,,W233
+W.234,Giao nhau với đường hai chiều,Biển báo hiệu trên đường một chiều sắp đến chỗ giao nhau với đường hai chiều.,W234
+W.235,Đường đôi,Biển báo hiệu sắp đến đoạn đường đôi (chiều đi và chiều về phân biệt rõ ràng bằng giải phân cách cứng).,W235
+W.236,Hết đường đôi,Biển báo hiệu sắp kết thúc đoạn đường đôi (đoạn đường hết giải phân cách cứng).,W236
+W.237,Đường có độ vòng lớn,Biển báo hiệu sắp đến chiếc cầu có độ vồng rất lớn ảnh hưởng tới tầm nhìn.,W237
+W.238,Đường cao tốc phía trước,Biển báo hiệu sắp đến đường cao tốc.,W238
+W.239,Đường cáp điện ở phía trên,,W239
+W.240,Đường hầm phía trước,Biển báo hiệu sắp tới đường hầm (đường chạy hai chiều xe mà chiếu sáng lại không tốt).,W240
+W.241,Ùn tắc giao thông,,W241
+W.242a,Nơi đường sắt giao vuông góc với đường bộ,Biển W.242a báo hiệu chỗ giao nhau chỉ có một đường sắt cắt ngang đường bộ.,W242a
+W.242b,Nơi 2 đường sắt giao nhau với đường bộ,,W242b
+W.243a,Nơi đường sắt giao không vuông góc với đường bộ,Đặt cách ray đường sắt gần nhất 50m,W243a
+W.243b,Nơi đường sắt giao không vuông góc với đường bộ,Đặt cách ray đường sắt gần nhất 100m,W243b
+W.243c,Nơi đường sắt giao không vuông góc với đường bộ,Đặt cách ray đường sắt gần nhất 150m,W243c
+W.244,Đoạn đường hay xảy ra tai nạn,Biển báo hiệu đoạn đường phía trước thường xảy ra tai nạn để lái xe cần đặc biệt chú ý.,W244
+W.245a,Đi chậm,,W245a
+W.245b,Đi chậm,,W245b
+W.246a,Chú ý chướng ngại vật: Vòng tránh sang hai bên,Biển báo hiệu phía trước có chướng ngại vật. người lái xe cần giảm tốc độ đi vòng tránh sang hai bên.,W246a
+W.246b,Chú ý chướng ngại vật: Vòng tránh sang bên trái,Biển báo hiệu phía trước có chướng ngại vật. người lái xe cần giảm tốc độ đi vòng tránh sang bên trái.,W246b
+W.246c,Chú ý chướng ngại vật: Vòng tránh sang bên phải,Biển báo hiệu phía trước có chướng ngại vật. người lái xe cần giảm tốc độ đi vòng tránh sang bên phải.,W246c
+W.247,Chú ý xe đỗ,,W247

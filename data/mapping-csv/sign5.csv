@@ -1,0 +1,12 @@
+id,name,detail,img
+S.501,Phạm vi tác dụng của biển,"Biển được đặt dưới các loại biển báo nguy hiểm, biển báo cấm hoặc hạn chế. Biển thông báo chiều dài đoạn đường nguy hiểm hay đoạn đường phải thi hành lệnh cấm hoặc hạn chế.",S501
+S.502,Khoảng cách đến đối tượng báo hiệu,"Biển được đặt dưới các loại biển báo nguy hiểm, biển báo cấm hoặc hạn chế, biển hiệu lệnh và biển chỉ dẫn . Biển thông báo khoảng cách thực tế từ vị trí đặt biển đến đối tượng báo hiệu ở phía trước.",S502
+S.503a,Hướng tác dụng của biển,,S503a
+S.503b,Hướng tác dụng của biển,,S503b
+S.503c,Hướng tác dụng của biển,,S503c
+S.503d,Hướng tác dụng của biển,,S503d
+S.503e,Hướng tác dụng của biển,,S503e
+S.503f,Hướng tác dụng của biển,,S503f
+S.504,Làn đường,,S504
+S.506a,Hướng đường ưu tiên,,S506a
+S.506b,Hướng đường ưu tiên,,S506b

@@ -1,0 +1,102 @@
+[
+  {
+    "id": 0,
+    "name": "A1",
+    "description": "Mô tô 2 bánh dung tích xi lanh từ 50 - 175 cm3.",
+    "time": 18,
+    "correctAnswers": 21,
+    "totalExams": 8,
+    "totalQuestions": 25,
+    "licenseReviewId": 0
+  },
+  {
+    "id": 1,
+    "name": "A2",
+    "description": "Mô tô 2 bánh dung tích xi lanh trên 175 cm3.",
+    "time": 18,
+    "correctAnswers": 23,
+    "totalExams": 18,
+    "totalQuestions": 25,
+    "licenseReviewId": 1
+  },
+  {
+    "id": 2,
+    "name": "A3",
+    "description": "Mô tô 3 bánh, xe lam, xích lô máy.",
+    "time": 18,
+    "correctAnswers": 23,
+    "totalExams": 20,
+    "totalQuestions": 25,
+    "licenseReviewId": 2
+  },
+  {
+    "id": 2,
+    "name": "A4",
+    "description": "Máy kéo có trọng tải đến 1.000kg.",
+    "time": 18,
+    "correctAnswers": 23,
+    "totalExams": 20,
+    "totalQuestions": 25,
+    "licenseReviewId": 2
+  },
+  {
+    "id": 3,
+    "name": "B1",
+    "description": "Ô tô chở người đến 9 chỗ ngồi, ô tô tải trọng dưới 3.500kg.",
+    "time": 19,
+    "correctAnswers": 27,
+    "totalExams": 20,
+    "totalQuestions": 30,
+    "licenseReviewId": 3
+  },
+  {
+    "id": 4,
+    "name": "B2",
+    "description": "Tương tự bằng lái B1, dành cho người hành nghề lái xe.",
+    "time": 21,
+    "correctAnswers": 32,
+    "totalExams": 18,
+    "totalQuestions": 35,
+    "licenseReviewId": 4
+  },
+  {
+    "id": 5,
+    "name": "C",
+    "description": "Ô tô tải, đầu kéo rơ moóc trọng tải từ 3.500kg trở lên.",
+    "time": 23,
+    "correctAnswers": 36,
+    "totalExams": 15,
+    "totalQuestions": 40,
+    "licenseReviewId": 4
+  },
+  {
+    "id": 6,
+    "name": "D",
+    "description": "Ô tô chở người từ 10 - 30 chỗ.",
+    "time": 25,
+    "correctAnswers": 41,
+    "totalExams": 14,
+    "totalQuestions": 45,
+    "licenseReviewId": 4
+  },
+  {
+    "id": 6,
+    "name": "E",
+    "description": "Ô tô chở người trên 30 chỗ.",
+    "time": 25,
+    "correctAnswers": 41,
+    "totalExams": 14,
+    "totalQuestions": 45,
+    "licenseReviewId": 4
+  },
+  {
+    "id": 6,
+    "name": "F",
+    "description": "Các loại xe cho bằng lái B1, B2, C, D, E có rơ moóc.",
+    "time": 25,
+    "correctAnswers": 41,
+    "totalExams": 14,
+    "totalQuestions": 45,
+    "licenseReviewId": 4
+  }
+]

@@ -1,0 +1,308 @@
+[
+  {
+    "id": "R.122",
+    "name": "Dừng lại",
+    "detail": "Biển báo hiệu buộc các xe cơ giới và thô sơ kể cả xe được ưu tiên theo quy định phải dừng lại. Chỉ được phép đi nếu có người điều khiển giao thông hoặc đèn cờ cho phép đi. Nếu không thì chỉ được phép đi khi trên đường không còn nguy cơ gây mất an toàn giao thông.",
+    "img": "R122"
+  },
+  {
+    "id": "R.301a",
+    "name": "Các xe chỉ được đi thẳng",
+    "detail": "Được đặt trước ngã ba, ngã tư. Các xe chỉ được đi thẳng ở khu vực ngã ba, ngã tư.",
+    "img": "R301a"
+  },
+  {
+    "id": "R.301b",
+    "name": "Các xe chỉ được rẽ phải",
+    "detail": "Được đặt sau ngã ba, ngã tư. Các xe chỉ được rẽ phải ở khu vực trước mặt biển.",
+    "img": "R301b"
+  },
+  {
+    "id": "R.301c",
+    "name": "Các xe chỉ được rẽ trái",
+    "detail": "Được đặt sau ngã ba, ngã tư. Các xe chỉ được rẽ trái ở khu vực trước mặt biển.",
+    "img": "R301c"
+  },
+  {
+    "id": "R.301d",
+    "name": "Các xe chỉ được rẽ phải",
+    "detail": "Được đặt trước ngã ba, ngã tư. Các xe chỉ được rẽ phải ở phạm vi ngã ba, ngã tư đằng sau mặt biển.",
+    "img": "R301d"
+  },
+  {
+    "id": "R.301e",
+    "name": "Các xe chỉ được rẽ trái",
+    "detail": "Được đặt trước ngã ba, ngã tư. Các xe chỉ được rẽ trái ở phạm vi ngã ba, ngã tư đằng sau mặt biển.",
+    "img": "R301e"
+  },
+  {
+    "id": "R.301f",
+    "name": "Các xe chỉ được đi thẳng và rẽ phải",
+    "detail": "Được đặt trước ngã ba, ngã tư. Các xe chỉ được phép đi thẳng hay rẽ phải ở khu vực sau mặt biển.",
+    "img": "R301f"
+  },
+  {
+    "id": "R.301g",
+    "name": "Các xe chỉ được đi thẳng và rẽ trái",
+    "detail": "Được đặt trước ngã ba, ngã tư. Các xe chỉ được phép đi thẳng hay rẽ trái ở khu vực sau mặt biển và được phép quay đầu xe để đi theo hướng ngược lại.",
+    "img": "R301g"
+  },
+  {
+    "id": "R.301h",
+    "name": "Các xe chỉ được rẽ trái và phải",
+    "detail": "Được đặt sau ngã ba, ngã tư. Các xe chỉ được phép rẽ trái, quay đầu hoặc rẽ phải ở khu vực ngã ba, ngã tư trước mặt biển.",
+    "img": "R301h"
+  },
+  {
+    "id": "R.302a",
+    "name": "Hướng phải đi vòng chướng ngại vật",
+    "detail": "",
+    "img": "R302a"
+  },
+  {
+    "id": "R.302b",
+    "name": "Hướng phải đi vòng chướng ngại vật",
+    "detail": "",
+    "img": "R302b"
+  },
+  {
+    "id": "R.302c",
+    "name": "Hướng phải đi vòng chướng ngại vật",
+    "detail": "",
+    "img": "R302c"
+  },
+  {
+    "id": "R.303",
+    "name": "Nơi giao nhau chạy theo vòng xuyến",
+    "detail": "Biển có hiệu lực bắt buộc các xe muốn chuyển hướng phải chạy vòng theo đảo an toàn theo hướng mũi tên tại nơi đường giao nhau (ngã ba, ngã tư).",
+    "img": "R303"
+  },
+  {
+    "id": "R.304",
+    "name": "Đường dành cho xe thô sơ",
+    "detail": "Biển báo đường dành cho xe thô sơ (kể cả xe của người khuyết tật) và người đi bộ, bắt buộc phải đi theo đường dành riêng này, cấm phương tiện giao thông cơ giới kể cả các xe được ưu tiên theo Luật Giao thông đường bộ đi vào đường đã đặt biển này, trừ trường hợp đi cắt ngang qua nhưng phải bảo đảm tuyệt đối an toàn cho người đi bộ.",
+    "img": "R304"
+  },
+  {
+    "id": "R.305",
+    "name": "Đường dành cho người đi bộ",
+    "detail": "Biển báo đường dành riêng cho người đi bộ.Các phương tiện giao thông đường bộ kể cả xe được ưu tiên theo Luật Giao thông đường bộ không được phép đi vào, trừ trường hợp đi cắt ngang qua, nhưng phải bảo đảm tuyệt đối an toàn cho người đi bộ.",
+    "img": "R305"
+  },
+  {
+    "id": "R.306",
+    "name": "Tốc độ tối thiểu cho phép",
+    "detail": "Biển báo tốc độ tối thiểu cho phép. Biển có hiệu lực bắt buộc các loại xe cơ giới chạy với tốc độ không nhỏ hơn trị số ghi trên biển trong điều kiện giao thông thuận lợi và an toàn. Các loại xe có tốc độ tối đa theo quy định của nhà sản xuất không đạt tốc độ tối thiểu đã ghi trên biển không được phép đi vào đường này.",
+    "img": "R306"
+  },
+  {
+    "id": "R.307",
+    "name": "Hết hạn chế tốc độ tối thiểu",
+    "detail": "Biển báo hết đoạn đường hạn chế tốc độ tối thiểu. Kể từ biển này các xe được phép chạy chậm hơn trị số ghi trên biển nhưng không được gây cản trở các xe khác.",
+    "img": "R307"
+  },
+  {
+    "id": "R.308a",
+    "name": "Tuyến đường cầu vượt cắt qua",
+    "detail": "Biển số R.308a báo cho người lái xe chỉ được đi thẳng hoặc rẽ trái trên cầu vượt.",
+    "img": "R308a"
+  },
+  {
+    "id": "R.308b",
+    "name": "Tuyến đường cầu vượt cắt qua",
+    "detail": "Biển số R.308b báo cho người lái xe chỉ được đi thẳng hoặc rẽ phải trên cầu vượt.",
+    "img": "R308b"
+  },
+  {
+    "id": "R.309",
+    "name": "Ấn còi",
+    "detail": "Biển báo lệnh cho người lái xe phải bấm còi.",
+    "img": "R309"
+  },
+  {
+    "id": "R.310a",
+    "name": "Hướng đi phải theo cho xe chở hàng nguy hiểm",
+    "detail": "",
+    "img": "R310a"
+  },
+  {
+    "id": "R.310b",
+    "name": "Hướng đi phải theo cho xe chở hàng nguy hiểm",
+    "detail": "",
+    "img": "R310b"
+  },
+  {
+    "id": "R.310c",
+    "name": "Hướng đi phải theo cho xe chở hàng nguy hiểm",
+    "detail": "",
+    "img": "R310c"
+  },
+  {
+    "id": "R.403a",
+    "name": "Đường dành cho ôtô",
+    "detail": "Biển báo hiệu bắt đầu đường dành cho các loại ôtô đi lại.",
+    "img": "R403a"
+  },
+  {
+    "id": "R.403b",
+    "name": "Đường dành cho ôtô, xe máy",
+    "detail": "Biển báo hiệu bắt đầu đường dành cho các loại ôtô, xe máy (kể cả xe gắn máy).",
+    "img": "R403b"
+  },
+  {
+    "id": "R.404a",
+    "name": "Hết đoạn đường dành cho ôtô",
+    "detail": "Đến hết đoạn đường dành cho ôtô đi lại",
+    "img": "R404a"
+  },
+  {
+    "id": "R.404b",
+    "name": "Hết đoạn đường dành cho ôtô và xe máy",
+    "detail": "Đến hết đoạn đường dành cho ôtô, xe máy đi lại",
+    "img": "R404b"
+  },
+  {
+    "id": "R.411",
+    "name": "Hướng đi trên mỗi làn đường phải theo",
+    "detail": "Biển báo hiệu cho người tham gia giao thông biết số lượng làn đường trên mặt đường và hướng đi trên mỗi làn đường theo vạch kẻ đường.",
+    "img": "R411"
+  },
+  {
+    "id": "R.412a",
+    "name": "Làn đường dành cho xe khách",
+    "detail": "Biển báo hiệu làn đường dành riêng cho ôtô khách (kể cả ôtô buýt).",
+    "img": "R412a"
+  },
+  {
+    "id": "R.412b",
+    "name": "Làn đường dành cho xe con",
+    "detail": "",
+    "img": "R412b"
+  },
+  {
+    "id": "R.412c",
+    "name": "Làn đường dành cho xe tải",
+    "detail": "",
+    "img": "R412c"
+  },
+  {
+    "id": "R.412d",
+    "name": "Làn đường dành cho xe mô tô",
+    "detail": "",
+    "img": "R412d"
+  },
+  {
+    "id": "R.412f",
+    "name": "Làn đường dành cho xe ô tô",
+    "detail": "",
+    "img": "R412f"
+  },
+  {
+    "id": "R.413i",
+    "name": "Kết thúc làn đường dành cho xe khách",
+    "detail": "",
+    "img": "R413i"
+  },
+  {
+    "id": "R.413j",
+    "name": "Kết thúc làn đường dành cho xe con",
+    "detail": "",
+    "img": "R413j"
+  },
+  {
+    "id": "R.413k",
+    "name": "Kết thúc làn đường dành cho xe tải",
+    "detail": "",
+    "img": "R413k"
+  },
+  {
+    "id": "R.413l",
+    "name": "Kết thúc làn đường dành cho xe mô tô",
+    "detail": "",
+    "img": "R413l"
+  },
+  {
+    "id": "R.413n",
+    "name": "Kết thúc làn đường dành cho xe ô tô",
+    "detail": "",
+    "img": "R413n"
+  },
+  {
+    "id": "R.415",
+    "name": "Biển gộp làn đường theo phương tiện",
+    "detail": "",
+    "img": "R415"
+  },
+  {
+    "id": "R.420",
+    "name": "Bắt đầu khu dân cư",
+    "detail": "Biển báo hiệu bắt đầu đoạn đường vào phạm vi khu đông dân cư. Biển có tác dụng báo cho người tham gia giao thông biết phạm vi phải tuân theo những quy định đi đường được áp dụng ở khu đông dân cư.",
+    "img": "R420"
+  },
+  {
+    "id": "R.421",
+    "name": "Hết khu đông dân cư",
+    "detail": "Biển báo hiệu hết đoạn đường qua phạm vi khu đông dân cư. Biển có tác dụng báo cho người tham gia giao thông biết phạm vi phải tuân theo những quy định đi đường được áp dụng ở khu đông dân cư đã hết hiệu lực.",
+    "img": "R421"
+  },
+  {
+    "id": "R.E,9a",
+    "name": "Cấm đỗ xe trong khu vực",
+    "detail": "Biển báo Cấm đỗ xe trong khu vực có hiệu lực cho tất cả các tuyến đường trong một khu vực (hiệu lực cho cả khu vực).",
+    "img": "RE9a"
+  },
+  {
+    "id": "R.E,9b",
+    "name": "Cấm đỗ xe theo giờ trong khu vực",
+    "detail": "Biển báo Cấm đỗ xe theo giờ trong khu vực có hiệu lực cho tất cả các tuyến đường trong một khu vực (hiệu lực cho cả khu vực).",
+    "img": "RE9b"
+  },
+  {
+    "id": "R.E,9c",
+    "name": "Khu vực đỗ xe",
+    "detail": "Biển báo khu vực đỗ xe trong khu vực có hiệu lực cho tất cả các tuyến đường trong một khu vực (hiệu lực cho cả khu vực).",
+    "img": "RE9c"
+  },
+  {
+    "id": "R.E,9d",
+    "name": "Hạn chế tốc độ tối đa trong khu vực",
+    "detail": "Để quy định hạn chế tốc độ tối đa trong khu vực có hiệu lực cho tất cả các tuyến đường trong một khu vực (hiệu lực cho cả khu vực).",
+    "img": "RE9d"
+  },
+  {
+    "id": "R.E,10a",
+    "name": "Hết cấm đỗ xe trong khu vực",
+    "detail": "Để báo hiệu hết cấm đỗ xe trong khu vực có hiệu lực cho tất cả các tuyến đường trong một khu vực (hiệu lực cho cả khu vực).",
+    "img": "RE10a"
+  },
+  {
+    "id": "R.E,10a",
+    "name": "Hết cấm đỗ xe theo giờ trong khu vực",
+    "detail": "Để báo hiệu hết cấm đỗ xe theo giờ trong khu vực có hiệu lực cho tất cả các tuyến đường trong một khu vực (hiệu lực cho cả khu vực).",
+    "img": "RE10a"
+  },
+  {
+    "id": "R.E,10c",
+    "name": "Hết khu vực đỗ xe",
+    "detail": "Để quy định hết khu vực đỗ xe trong khu vực có hiệu lực cho tất cả các tuyến đường trong một khu vực (hiệu lực cho cả khu vực).",
+    "img": "RE10c"
+  },
+  {
+    "id": "R.E,10d",
+    "name": "Hết hạn chế tốc độ tối đa trong khu vực",
+    "detail": "Để quy định hết hạn chế tốc độ tối đa trong khu vực có hiệu lực cho tất cả các tuyến đường trong một khu vực (hiệu lực cho cả khu vực).",
+    "img": "RE10d"
+  },
+  {
+    "id": "R.E,11a",
+    "name": "Báo hiệu có hầm chui",
+    "detail": "Chỉ dẫn đoạn đường qua hầm có áp dụng quy định giao thông riêng.",
+    "img": "RE11a"
+  },
+  {
+    "id": "R.E,11b",
+    "name": "Kết thúc hầm chui",
+    "detail": "Chỉ dẫn hết đoạn đường qua hầm, các quy định giao thông riêng không còn áp dụng.",
+    "img": "RE11b"
+  }
+]

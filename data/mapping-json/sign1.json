@@ -1,0 +1,368 @@
+[
+  {
+    "id": "P.101",
+    "name": "Đường cấm",
+    "detail": "Biển báo đường cấm tất cả các loại phương tiện tham gia giao thông đi lại cả hai hướng, trừ xe ưu tiên theo luật định.",
+    "img": "P101"
+  },
+  {
+    "id": "P.102",
+    "name": "Cấm đi ngược chiều",
+    "detail": "Biển báo đường cấm tất cả các loại phương tiện tham gia giao thông đi vào theo chiều đặt biển.",
+    "img": "P102"
+  },
+  {
+    "id": "P.103a",
+    "name": "Cấm ô tô",
+    "detail": "Biển báo đường cấm tất cả các loại xe cơ giới kể cả mô tô 3 bánh có thùng đi qua, trừ xe mô tô 2 bánh, xe gắn máy (kể cả xe máy điện) và các xe được ưu tiên theo Luật Giao thông đường bộ.",
+    "img": "P103a"
+  },
+  {
+    "id": "P.103b",
+    "name": "Cấm ô tô rẽ phải",
+    "detail": "Biển báo đường cấm xe ô tô rẽ phải ( kể cả xe mô tô ba bánh), trừ các xe được ưu tiên theo Luật Giao thông đường bộ.",
+    "img": "P103b"
+  },
+  {
+    "id": "P.103c",
+    "name": "Cấm ô tô rẽ trái",
+    "detail": "Biển báo đường cấm xe ô tô rẽ trái và cũng không được phép quay đầu xe, trừ các xe được ưu tiên theo Luật Giao thông đường bộ.",
+    "img": "P103c"
+  },
+  {
+    "id": "P.104",
+    "name": "Cấm mô tô",
+    "detail": "Biển báo đường cấm tất cả các loại mô tô đi qua, trừ các loại xe mô tô được ưu tiên theo Luật Giao thông đường bộ.",
+    "img": "P104"
+  },
+  {
+    "id": "P.105",
+    "name": "Cấm ô tô và mô tô",
+    "detail": "Biển báo đường cấm tất cả xe cơ giới và xe mô tô đi qua trừ xe gắn máy và xe được ưu tiên theo Luật Giao thông đường bộ.",
+    "img": "P105"
+  },
+  {
+    "id": "P.106a",
+    "name": "Cấm ô tô tải",
+    "detail": "Biển báo đường cấm tất cả các loại xe ô tô tải trừ các xe được ưu tiên theo Luật Giao thông đường bộ, hiệu lực cấm đối với cả máy kéo và xe máy chuyên dùng.",
+    "img": "P106a"
+  },
+  {
+    "id": "P.106b",
+    "name": "Cấm ô tô tải theo trọng lượng",
+    "detail": "Trọng lượng được tính theo tấn ghi trên biển",
+    "img": "P106b"
+  },
+  {
+    "id": "P.106c",
+    "name": "Cấm ô tô tải chở hàng nguy hiểm",
+    "detail": "Biển báo P.106c đường cấm tất cả các loại xe ô tô tải chở hàng nguy hiểm.",
+    "img": "P106c"
+  },
+  {
+    "id": "P.107",
+    "name": "Cấm ô tô khách và ô tô tải",
+    "detail": "Biển báo đường cấm xe ô tô khách và các loại xe ô tô tải, kể cả máy kéo và xe máy chuyên dùng đi qua, trừ các xe được ưu tiên theo Luật Giao thông đường bộ.",
+    "img": "P107"
+  },
+  {
+    "id": "P.107a",
+    "name": "Cấm ô tô khách",
+    "detail": "Biển báo đường cấm ôtô chở khách đi qua trừ các xe ưu tiên theo quy định. Biển này không cấm xe buýt.",
+    "img": "P107a"
+  },
+  {
+    "id": "P.107b",
+    "name": "Cấm xe taxi",
+    "detail": "Biển báo đường cấm ôtô taxi đi lại. Trường hợp cấm xe ôtô taxi theo giờ thì đặt biển phụ ghi giờ cấm.",
+    "img": "P107b"
+  },
+  {
+    "id": "P.108",
+    "name": "Cấm ôtô kéo rơ moóc",
+    "detail": "Biển báo đường cấm tất cả các loại xe cơ giới kéo theo rơ moóc kể cả xe mô tô, máy kéo, xe ô tô khách kéo theo rơ moóc đi qua, trừ loại xe ô tô sơ mi rơ moóc và các xe được ưu tiên theo Luật Giao thông đường bộ (có kéo theo rơ moóc).",
+    "img": "P108"
+  },
+  {
+    "id": "P.108a",
+    "name": "Cấm xe sơ-mi rơ-moóc",
+    "detail": "Biển báo đường cấm các loại xe sơ-mi-rơ-moóc và các xe kéo rơ- moóc trừ các xe được ưu tiên (có dạng xe sơ-mi-rơ-moóc hoặc có kéo theo rơ-moóc) theo quy định.",
+    "img": "P108a"
+  },
+  {
+    "id": "P.109",
+    "name": "Cấm máy kéo",
+    "detail": "Biển báo đường cấm tất cả các loại máy kéo, kể cả máy kéo bánh hơi và bánh xích đi qua.",
+    "img": "P109"
+  },
+  {
+    "id": "P.110a",
+    "name": "Cấm xe đạp",
+    "detail": "Biển báo đường cấm xe đạp đi qua. Biển không có giá trị cấm những người dắt xe đạp.",
+    "img": "P110a"
+  },
+  {
+    "id": "P.110b",
+    "name": "Cấm xe đạp thồ",
+    "detail": "Biển báo đường cấm xe đạp thồ đi qua. Biển không có giá trị cấm người dắt loại xe này.",
+    "img": "P110b"
+  },
+  {
+    "id": "P.111a",
+    "name": "Cấm xe gắn máy",
+    "detail": "Biển báo đường cấm xe gắn máy đi qua. Biển không có giá trị cấm đối với xe đạp.",
+    "img": "P111a"
+  },
+  {
+    "id": "P.112",
+    "name": "Cấm người đi bộ",
+    "detail": "Biển báo đường cấm người đi bộ qua lại.",
+    "img": "P112"
+  },
+  {
+    "id": "P.113",
+    "name": "Cấm xe người kéo, đẩy",
+    "detail": "Biển báo đường cấm xe người kéo đẩy đi qua. Biển không có giá trị cấm những xe nôi của trẻ em và phương tiện chuyên dùng để đi lại của những người khuyết tật.",
+    "img": "P113"
+  },
+  {
+    "id": "P.114",
+    "name": "Cấm xe súc vật kéo",
+    "detail": "Biển báo đường cấm súc vậtấtt vận tải hàng hóa hoặc hành khách dù kéo xe hay chở trên lưng đi qua.",
+    "img": "P114"
+  },
+  {
+    "id": "P.115",
+    "name": "Hạn chế trọng lượng xe",
+    "detail": "Biển báo đường cấm các loại phương tiện giao thông đường bộ kể cả các xe được ưu tiên theo Luật Giao thông đường bộ có trọng lượng toàn bộ (cả xe và hàng) vượt quá trị số ghi trên biển tính bằng tấn đi qua.",
+    "img": "P115"
+  },
+  {
+    "id": "P.116",
+    "name": "Hạn chế trọng lượng trên trục xe",
+    "detail": "Biển báo đường cấm các loại phương tiện giao thông đường bộ, kể cả các xe được ưu tiên theo Luật Giao thông đường bộ có trọng lượng toàn bộ (cả xe và hàng) phân bố trên một trục bất kỳ của xe vượt quá trị số ghi trên biển tính bằng tấn đi qua.",
+    "img": "P116"
+  },
+  {
+    "id": "P.117",
+    "name": "Hạn chế chiều cao",
+    "detail": "Biển có hiệu lực cấm các loại phương tiện giao thông đường bộ đi qua, kể cả các xe được ưu tiên theo Luật Giao thông đường bộ có chiều cao (tính đến điểm cao nhất cả xe và hàng hóa) vượt quá trị số ghi trên biển tính bằng mét đi qua.",
+    "img": "P117"
+  },
+  {
+    "id": "P.118",
+    "name": "Hạn chế chiều ngang",
+    "detail": "Biển có hiệu lực cấm các loại phương tiện giao thông đường bộ kể cả các xe được ưu tiên theo Luật Giao thông đường bộ có chiều ngang (cả xe và hàng hóa) vượt quá trị số ghi trên Biển tính bằng mét đi qua.",
+    "img": "P118"
+  },
+  {
+    "id": "P.119",
+    "name": "Hạn chế chiều dài ô tô",
+    "detail": "Biển báo đường cấm các loại xe (cơ giới và thô sơ), kể cả các xe được ưu tiên theo Luật Giao thông đường bộ, có độ dài toàn bộ (cả xe và hàng) vượt quá trị số ghi trên biển tính bằng mét đi qua.",
+    "img": "P119"
+  },
+  {
+    "id": "P.120",
+    "name": "Hạn chế chiều dài ô tô kéo moóc",
+    "detail": "Biển báo đường cấm các loại phương tiện giao thông đường bộ kéo theo rơ moóc kể cả ô tô sơ mi rơ moóc và các xe được ưu tiên theo Luật Giao thông đường bộ kéo theo rơ moóc có độ dài toàn bộ (cả xe, rơ moóc và hàng) vượt quá trị số ghi trên biển đi qua.",
+    "img": "P120"
+  },
+  {
+    "id": "P.121",
+    "name": "Cự ly tối thiểu giữa hai xe",
+    "detail": "Biển báo xe ô tô phải đi cách nhau một khoảng tối thiểu. Biển có hiệu lực cấm các xe ô tô không được đi cách nhau với cự ly nhỏ hơn trị số ghi trên biển tính bằng mét, kể cả các xe được ưu tiên theo Luật Giao thông đường bộ.",
+    "img": "P121"
+  },
+  {
+    "id": "P.123a",
+    "name": "Cấm rẽ trái",
+    "detail": "Biển báo đường cấm các loại phương tiện giao thông đường bộ (xe cơ giới và xe thô sơ) rẽ trái, trừ các xe được ưu tiên theo Luật Giao thông đường bộ. Biển không có giá trị cấm quay đầu xe.",
+    "img": "P123a"
+  },
+  {
+    "id": "P.123b",
+    "name": "Cấm rẽ phải",
+    "detail": "Biển báo đường cấm các loại phương tiện giao thông đường bộ (xe cơ giới và xe thô sơ) rẽ phải, trừ các xe được ưu tiên theo Luật Giao thông đường bộ. Biển không có giá trị cấm quay đầu xe.",
+    "img": "P123b"
+  },
+  {
+    "id": "P.124a",
+    "name": "Cấm quay đầu xe",
+    "detail": "Biển báo đường cấm các loại phương tiện giao thông đường bộ quay đầu xe theo kiểu chữ U, trừ các xe được ưu tiên theo Luật Giao thông đường bộ. Biển không có giá trị cấm rẽ trái để sang hướng đường khác.",
+    "img": "P124a"
+  },
+  {
+    "id": "P.124b",
+    "name": "Cấm ô tô quay đầu",
+    "detail": "Biển báo đường cấm xe ô tô và xe mô tô 3 bánh quay đầu xe theo kiểu chữ U, trừ các xe được ưu tiên theo Luật Giao thông đường bộ.",
+    "img": "P124b"
+  },
+  {
+    "id": "P.124c",
+    "name": "Cấm rẽ trái và quay đầu xe",
+    "detail": "Biển báo cấm các loại xe rẽ trái đồng thời cấm quay đầu, trừ các xe được ưu tiên theo Luật Giao thông đường bộ.",
+    "img": "P124c"
+  },
+  {
+    "id": "P.124d",
+    "name": "Cấm rẽ phải và quay đầu xe",
+    "detail": "Biển báo cấm các loại xe rẽ phải đồng thời cấm quay đầu, trừ các xe được ưu tiên theo Luật Giao thông đường bộ.",
+    "img": "P124d"
+  },
+  {
+    "id": "P.124e",
+    "name": "Cấm ô tô rẽ trái và quay xe",
+    "detail": "Biển báo cấm xe ôtô rẽ trái và đồng thời cấm quay đầu phải, trừ các xe được ưu tiên theo Luật Giao thông đường bộ.",
+    "img": "P124e"
+  },
+  {
+    "id": "P.124f",
+    "name": "Cấm ô tô rẽ phải và quay xe",
+    "detail": "Biển báo cấm xe ôtô rẽ phải và đồng thời cấm quay đầu phải, trừ các xe được ưu tiên theo Luật Giao thông đường bộ.",
+    "img": "P124f"
+  },
+  {
+    "id": "P.125",
+    "name": "Cấm vượt",
+    "detail": "Biển có hiệu lực cấm tất cả các loại xe cơ giới vượt nhau, kể cả các xe được ưu tiên theo Luật Giao thông đường bộ. được phép vượt xe mô tô 2 bánh, xe gắn máy.\nển hết hiệu lực cấm khi có biển số DP.133 “Hết cấm vượt” hoặc đến chỗ có biển số DP.135 “Hết tất cả các lệnh cấm” nếu đồng thời có nhiều biển cấm khác hết tác dụng.",
+    "img": "P125"
+  },
+  {
+    "id": "P.126",
+    "name": "Cấm ôtô tải vượt",
+    "detail": "Biển có hiệu lực cấm các loại ôtô tải có khối lượng chuyên chở (theo Giấy chứng nhận kiểm định an toàn kỹ thuật và bảo vệ môi trường phương tiện giao thông cơ giới đường bộ) lớn hơn 3.500 kg (3,5 tấn) kể cả các xe được ưu tiên theo quy định vượt xe cơ giới khác. được phép vượt xe máy 2 bánh, xe gắn máy. Biển không có giá trị cấm các loại xe cơ giới khác vượt nhau và vượt xe ô tô tải.",
+    "img": "P126"
+  },
+  {
+    "id": "P.127",
+    "name": "Tốc độ tối đa cho phép",
+    "detail": "Biển có hiệu lực cấm tất cả các loại xe cơ giới đường bộ chạy với tốc độ tối đa vượt quá trị số ghi trên Biển (tính bằng km/h), trừ các xe được ưu tiên theo Luật Giao thông đường bộ.",
+    "img": "P127"
+  },
+  {
+    "id": "P.127a",
+    "name": "Tốc độ tối đa cho phép về ban đêm",
+    "detail": "Biển có hiệu lực cấm tất cả các loại xe cơ giới đường bộ chạy ban đêm với tốc độ tối đa vượt quá trị số ghi trên biển (tính bằng km/h), trừ một số trường hợp ưu tiên được quy định.",
+    "img": "P127a"
+  },
+  {
+    "id": "P.127b",
+    "name": "Tốc độ tối đa trên từng làn đường",
+    "detail": "Biển ghép tốc độ tối đa cho phép trên từng làn đường",
+    "img": "P127b"
+  },
+  {
+    "id": "P.127c",
+    "name": "Tốc độ tối đa phương tiện trên từng làn đường",
+    "detail": "Biển ghép tốc độ tối đa cho phép theo phương tiện, trên từng làn đường",
+    "img": "P127c"
+  },
+  {
+    "id": "P.127d",
+    "name": "Biển hết hạn chế tốc độ tối đa",
+    "detail": "Biển hết hạn chế tốc độ tối đa cho phép theo biển ghép",
+    "img": "P127d"
+  },
+  {
+    "id": "P.128",
+    "name": "Cấm bóp còi",
+    "detail": "Biển báo cấm các loại xe cơ giới sử dụng còi.",
+    "img": "P128"
+  },
+  {
+    "id": "P.129",
+    "name": "Kiểm tra",
+    "detail": "Biển báo nơi đặt trạm kiểm tra, các loại phương tiện vận tải qua đó phải dừng lại để làm thủ tục kiểm tra, kiểm soát theo quy định.",
+    "img": "P129"
+  },
+  {
+    "id": "P.130",
+    "name": "Cấm dừng và đỗ xe",
+    "detail": "Biển có hiệu lực cấm các loại xe cơ giới đường bộ dừng và đỗ lại ở phía đường có đặt biển,",
+    "img": "P130"
+  },
+  {
+    "id": "P.131a",
+    "name": "Cấm đỗ xe",
+    "detail": "Biển số 131a có hiệu lực cấm các loại xe cơ giới đỗ ở phía đường có đặt biển vào bất kể ngày nào.",
+    "img": "P131a"
+  },
+  {
+    "id": "P.131b",
+    "name": "Cấm đỗ xe ngày lẻ",
+    "detail": "Biển có hiệu lực cấm các loại xe cơ giới đỗ ở phía đường có đặt biển vào những ngày lẻ.",
+    "img": "P131b"
+  },
+  {
+    "id": "P.131c",
+    "name": "Cấm đỗ xe ngày chẵn",
+    "detail": "Biển có hiệu lực cấm các loại xe cơ giới đỗ ở phía đường có đặt biển vào những ngày chẵn.",
+    "img": "P131c"
+  },
+  {
+    "id": "P.132",
+    "name": "Nhường cho xe ngược chiều qua đường hẹp",
+    "detail": "Biển báo cho các loại phương tiện giao thông đường bộ (cơ giới và thô sơ), kể cả các xe được ưu tiên theo Luật Giao thông đường bộ đi theo chiều nhìn thấy biển phải nhường đường cho các loại xe cơ giới đi theo chiều ngược lại khi đi qua các đoạn đường và cầu hẹp.",
+    "img": "P132"
+  },
+  {
+    "id": "DP.133",
+    "name": "Hết cấm vượt",
+    "detail": "Biển báo cho người lái xe biết hiệu lực của biển số P.125 “Cấm vượt” và biển số P.126 “Cấm ô tô tải vượt” hết tác dụng.",
+    "img": "DP133"
+  },
+  {
+    "id": "DP.134",
+    "name": "Hết hạn chế tốc độ tối đa",
+    "detail": "Biển báo cho người lái xe biết hiệu lực của biển số P.127 “Hạn chế tốc độ tối đa” hết tác dụng. Kể từ biển này, các xe được phép chạy với tốc độ tối đa đã quy định trong Luật Giao thông đường bộ.",
+    "img": "DP134"
+  },
+  {
+    "id": "DP.135",
+    "name": "Hết tất cả các lệnh cấm",
+    "detail": "Biển báo cho người lái xe biết hiệu lực của biển số P.121 “Cự ly tối thiểu giữa hai xe” và các biển từ biển số P.125 đến P.131 (a, b, c) được đặt trước đó cùng hết tác dụng.",
+    "img": "DP135"
+  },
+  {
+    "id": "P.136",
+    "name": "Cấm đi thẳng",
+    "detail": "Biển được đặt trước nơi đường giao nhau và có hiệu lực cấm tất cả các loại phương tiện giao thông đường bộ (cơ giới và thô sơ) đi thẳng ở nơi đường giao nhau.",
+    "img": "P136"
+  },
+  {
+    "id": "P.137",
+    "name": "Cấm rẽ trái và rẽ phải",
+    "detail": "Biển được đặt trước nơi đường giao nhau và có hiệu lực cấm tất cả các loại phương tiện giao thông đường bộ (cơ giới và thô sơ) rẽ trái và rẽ phải ở nơi đường giao nhau.",
+    "img": "P137"
+  },
+  {
+    "id": "P.138",
+    "name": "Cấm đi thẳng và rẽ trái",
+    "detail": "Biển được đặt trước nơi đường giao nhau và có hiệu lực cấm tất cả các loại phương tiện giao thông đường bộ (cơ giới và thô sơ) đi thẳng và rẽ trái ở nơi đường giao nhau.",
+    "img": "P138"
+  },
+  {
+    "id": "P.139",
+    "name": "Cấm đi thẳng và rẽ phải",
+    "detail": "Biển được đặt trước nơi đường giao nhau và có hiệu lực cấm tất cả các loại phương tiện giao thông đường bộ (cơ giới và thô sơ) đi thẳng và rẽ phải ở nơi đường giao nhau.",
+    "img": "P139"
+  },
+  {
+    "id": "P.140",
+    "name": "Cấm xe công nông và các loại xe tương tự",
+    "detail": "Biển báo đường cấm tất cả các loại xe công nông và các loại xe tương tự đi qua.",
+    "img": "P140"
+  },
+  {
+    "id": "S.508a",
+    "name": "Biển cấm theo giờ",
+    "detail": "Khi cần báo hiệu cấm các loại phương tiện giao thông đường bộ theo giờ trong thành phố, thị xã phải đặt biển phụ số S508(a,b) dưới biển cấm và có chú thích bằng tiếng Việt, phụ đề tiếng Anh trong biển này.",
+    "img": "S508a"
+  },
+  {
+    "id": "S.508b",
+    "name": "Biển cấm theo giờ",
+    "detail": "Khi cần báo hiệu cấm các loại phương tiện giao thông đường bộ theo giờ trong thành phố, thị xã phải đặt biển phụ số S508(a,b) dưới biển cấm và có chú thích bằng tiếng Việt, phụ đề tiếng Anh trong biển này.",
+    "img": "S508b"
+  }
+]

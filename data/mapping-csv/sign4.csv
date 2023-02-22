@@ -1,0 +1,26 @@
+id,name,detail,img
+I.401,Bắt đầu đường ưu tiên,"Biển chỉ dẫn các phương tiện trên trục đường chính được ưu tiên đi trước ở nơi đường giao nhau, các phương tiện từ đường nhánh ra phải dừng lại nhường đường cho phương tiện trên đường chính đi trước, trừ các xe được ưu tiên theo Luật Giao thông đường bộ.",I401
+I.402,Hết đường ưu tiên,"Biển chỉ dẫn đã hết đoạn đường ưu tiên. Trên đoạn đường tiếp theo, các xe đi đúng với tốc độ quy định, qua nơi giao nhau ưu tiên bên phải.",I402
+I.405a,Đường cụt,,I405a
+I.405b,Đường cụt,,I405b
+I.405c,Đường cụt,,I405c
+I.406,Được ưu tiên qua đường hẹp,"Biển chỉ dẫn có quyền được ưu tiên đi trước trên đoạn đường hẹp khi gặp xe đi ngược chiều, trừ trường hợp trên hướng đi ngược chiều có phương tiện đã đi vào phạm vi đường hẹp thì xe đi theo chiều ưu tiên cũng phải nhường đường.",I406
+I.407a,Đường một chiều,"Chỉ cho phép các loại phương tiệngiao thông đi vào theo chiều mũi tên chỉ, cấm quay đầu ngược lại (trừ các xe được quyền ưu tiên theo Luật Giao thông đường bộ).",I407a
+I.407b,Đường một chiều,"Chỉ cho phép các loại phương tiệngiao thông đi vào theo chiều mũi tên chỉ, cấm quay đầu ngược lại (trừ các xe được quyền ưu tiên theo Luật Giao thông đường bộ).",I407b
+I.407c,Đường một chiều,"Chỉ cho phép các loại phương tiệngiao thông đi vào theo chiều mũi tên chỉ, cấm quay đầu ngược lại (trừ các xe được quyền ưu tiên theo Luật Giao thông đường bộ).",I407c
+I.408,Nơi đỗ xe,"Biển chỉ dẫn những nơi được phép đỗ xe, những bãi đỗ xe, bến xe v.v...",I408
+I.408a,Nơi đỗ xe một phần trên hè phố,"Biển chỉ dẫn những nơi được phép đỗ xe một phần trên hè phố rộng, phải đặt biển số. Xe phải đổ từ 1⁄2 thân xe trở lên trên hè phố.",I408a
+I.409,Chỗ quay xe,Biển chỉ dẫn vị trí được phép quay đầu xe kiểu chữ U. Biển không cấm rẽ trái,I409
+I.410,Khu vực quay xe,Biển chỉ dẫn khu vực được phép quay đầu xe kiểu chữ U. Biển không cấm rẽ trái.,I410
+I.413a,Đường phía trước có làn đường dành cho ô tô khách,"Biển chỉ dẫn đường có làn đường dành riêng cho xe ô tô khách theo chiều ngược lại. Biển được đặt ở ngã ba, ngã tư đầu đường một chiều mà hướng ngược chiều có xe ô tô khách được phép chạy.",I413a
+I.413b,Rẽ ra đường có làn dành cho xe khách,"Biển chỉ dẫn ở ngã ba, ngã tư rẽ phải hoặc rẽ trái là rẽ ra đường có làn đường dành cho xe ô tô khách.",I413b
+I.413c,Rẽ ra đường có làn dành cho xe khách,"Biển chỉ dẫn ở ngã ba, ngã tư rẽ phải hoặc rẽ trái là rẽ ra đường có làn đường dành cho xe ô tô khách.",I413c
+I.418,Lối đi ở những chỗ cấm rẽ,,I418
+I.423a,Đường người đi bộ sang ngang,,I423a
+I.437,Đường cao tốc,"Để chỉ dẫn bắt đầu đường cao tốc, đặt biển số I.437 “Đường cao tốc”.",I437
+I.444,Xe kéo moóc,Biển này đặt trên nóc buồng lái của xe kéo moóc,I444
+I.446,Nơi đỗ xe dành cho người tàn tật,Biển chỉ dẫn vị trí thiết bị chuyên dùng cho người tàn tật.,I446
+I.447a,Cầu vượt liên thông,Biển được đặt trước khi vào cầu vượt . Biển chỉ dẫn tại cầu vượt liên thông xe có thể đi thẳng hoặc theo chỉ dẫn trên hình vẽ để rẽ trái hay rẽ phải.,I447a
+I.447b,Cầu vượt liên thông,Biển được đặt trước khi vào cầu vượt . Biển chỉ dẫn tại cầu vượt liên thông xe có thể đi thẳng hoặc theo chỉ dẫn trên hình vẽ để rẽ trái hay rẽ phải.,I447b
+I.448,Làn đường cứu nạn hay làn thoát xe khẩn cấp,"Biển chỉ dẫn gồm 3 cặp biển ở các cự ly 2 km, 1 km và 300 m nhằm chỉ dẫn cho ngƣời tham gia giao thông biết vị trí và khoảng cách có làn cứu nạn.",I448
+I.449,Biển tên đường,Biển báo tên đƣờng cho các tuyến đƣờng đối ngoại.,I449

@@ -1,0 +1,52 @@
+id,name,detail,img
+R.122,Dừng lại,Biển báo hiệu buộc các xe cơ giới và thô sơ kể cả xe được ưu tiên theo quy định phải dừng lại. Chỉ được phép đi nếu có người điều khiển giao thông hoặc đèn cờ cho phép đi. Nếu không thì chỉ được phép đi khi trên đường không còn nguy cơ gây mất an toàn giao thông.,R122
+R.301a,Các xe chỉ được đi thẳng,"Được đặt trước ngã ba, ngã tư. Các xe chỉ được đi thẳng ở khu vực ngã ba, ngã tư.",R301a
+R.301b,Các xe chỉ được rẽ phải,"Được đặt sau ngã ba, ngã tư. Các xe chỉ được rẽ phải ở khu vực trước mặt biển.",R301b
+R.301c,Các xe chỉ được rẽ trái,"Được đặt sau ngã ba, ngã tư. Các xe chỉ được rẽ trái ở khu vực trước mặt biển.",R301c
+R.301d,Các xe chỉ được rẽ phải,"Được đặt trước ngã ba, ngã tư. Các xe chỉ được rẽ phải ở phạm vi ngã ba, ngã tư đằng sau mặt biển.",R301d
+R.301e,Các xe chỉ được rẽ trái,"Được đặt trước ngã ba, ngã tư. Các xe chỉ được rẽ trái ở phạm vi ngã ba, ngã tư đằng sau mặt biển.",R301e
+R.301f,Các xe chỉ được đi thẳng và rẽ phải,"Được đặt trước ngã ba, ngã tư. Các xe chỉ được phép đi thẳng hay rẽ phải ở khu vực sau mặt biển.",R301f
+R.301g,Các xe chỉ được đi thẳng và rẽ trái,"Được đặt trước ngã ba, ngã tư. Các xe chỉ được phép đi thẳng hay rẽ trái ở khu vực sau mặt biển và được phép quay đầu xe để đi theo hướng ngược lại.",R301g
+R.301h,Các xe chỉ được rẽ trái và phải,"Được đặt sau ngã ba, ngã tư. Các xe chỉ được phép rẽ trái, quay đầu hoặc rẽ phải ở khu vực ngã ba, ngã tư trước mặt biển.",R301h
+R.302a,Hướng phải đi vòng chướng ngại vật,,R302a
+R.302b,Hướng phải đi vòng chướng ngại vật,,R302b
+R.302c,Hướng phải đi vòng chướng ngại vật,,R302c
+R.303,Nơi giao nhau chạy theo vòng xuyến,"Biển có hiệu lực bắt buộc các xe muốn chuyển hướng phải chạy vòng theo đảo an toàn theo hướng mũi tên tại nơi đường giao nhau (ngã ba, ngã tư).",R303
+R.304,Đường dành cho xe thô sơ,"Biển báo đường dành cho xe thô sơ (kể cả xe của người khuyết tật) và người đi bộ, bắt buộc phải đi theo đường dành riêng này, cấm phương tiện giao thông cơ giới kể cả các xe được ưu tiên theo Luật Giao thông đường bộ đi vào đường đã đặt biển này, trừ trường hợp đi cắt ngang qua nhưng phải bảo đảm tuyệt đối an toàn cho người đi bộ.",R304
+R.305,Đường dành cho người đi bộ,"Biển báo đường dành riêng cho người đi bộ.Các phương tiện giao thông đường bộ kể cả xe được ưu tiên theo Luật Giao thông đường bộ không được phép đi vào, trừ trường hợp đi cắt ngang qua, nhưng phải bảo đảm tuyệt đối an toàn cho người đi bộ.",R305
+R.306,Tốc độ tối thiểu cho phép,Biển báo tốc độ tối thiểu cho phép. Biển có hiệu lực bắt buộc các loại xe cơ giới chạy với tốc độ không nhỏ hơn trị số ghi trên biển trong điều kiện giao thông thuận lợi và an toàn. Các loại xe có tốc độ tối đa theo quy định của nhà sản xuất không đạt tốc độ tối thiểu đã ghi trên biển không được phép đi vào đường này.,R306
+R.307,Hết hạn chế tốc độ tối thiểu,Biển báo hết đoạn đường hạn chế tốc độ tối thiểu. Kể từ biển này các xe được phép chạy chậm hơn trị số ghi trên biển nhưng không được gây cản trở các xe khác.,R307
+R.308a,Tuyến đường cầu vượt cắt qua,Biển số R.308a báo cho người lái xe chỉ được đi thẳng hoặc rẽ trái trên cầu vượt.,R308a
+R.308b,Tuyến đường cầu vượt cắt qua,Biển số R.308b báo cho người lái xe chỉ được đi thẳng hoặc rẽ phải trên cầu vượt.,R308b
+R.309,Ấn còi,Biển báo lệnh cho người lái xe phải bấm còi.,R309
+R.310a,Hướng đi phải theo cho xe chở hàng nguy hiểm,,R310a
+R.310b,Hướng đi phải theo cho xe chở hàng nguy hiểm,,R310b
+R.310c,Hướng đi phải theo cho xe chở hàng nguy hiểm,,R310c
+R.403a,Đường dành cho ôtô,Biển báo hiệu bắt đầu đường dành cho các loại ôtô đi lại.,R403a
+R.403b,"Đường dành cho ôtô, xe máy","Biển báo hiệu bắt đầu đường dành cho các loại ôtô, xe máy (kể cả xe gắn máy).",R403b
+R.404a,Hết đoạn đường dành cho ôtô,Đến hết đoạn đường dành cho ôtô đi lại,R404a
+R.404b,Hết đoạn đường dành cho ôtô và xe máy,"Đến hết đoạn đường dành cho ôtô, xe máy đi lại",R404b
+R.411,Hướng đi trên mỗi làn đường phải theo,Biển báo hiệu cho người tham gia giao thông biết số lượng làn đường trên mặt đường và hướng đi trên mỗi làn đường theo vạch kẻ đường.,R411
+R.412a,Làn đường dành cho xe khách,Biển báo hiệu làn đường dành riêng cho ôtô khách (kể cả ôtô buýt).,R412a
+R.412b,Làn đường dành cho xe con,,R412b
+R.412c,Làn đường dành cho xe tải,,R412c
+R.412d,Làn đường dành cho xe mô tô,,R412d
+R.412f,Làn đường dành cho xe ô tô,,R412f
+R.413i,Kết thúc làn đường dành cho xe khách,,R413i
+R.413j,Kết thúc làn đường dành cho xe con,,R413j
+R.413k,Kết thúc làn đường dành cho xe tải,,R413k
+R.413l,Kết thúc làn đường dành cho xe mô tô,,R413l
+R.413n,Kết thúc làn đường dành cho xe ô tô,,R413n
+R.415,Biển gộp làn đường theo phương tiện,,R415
+R.420,Bắt đầu khu dân cư,Biển báo hiệu bắt đầu đoạn đường vào phạm vi khu đông dân cư. Biển có tác dụng báo cho người tham gia giao thông biết phạm vi phải tuân theo những quy định đi đường được áp dụng ở khu đông dân cư.,R420
+R.421,Hết khu đông dân cư,Biển báo hiệu hết đoạn đường qua phạm vi khu đông dân cư. Biển có tác dụng báo cho người tham gia giao thông biết phạm vi phải tuân theo những quy định đi đường được áp dụng ở khu đông dân cư đã hết hiệu lực.,R421
+"R.E,9a",Cấm đỗ xe trong khu vực,Biển báo Cấm đỗ xe trong khu vực có hiệu lực cho tất cả các tuyến đường trong một khu vực (hiệu lực cho cả khu vực).,RE9a
+"R.E,9b",Cấm đỗ xe theo giờ trong khu vực,Biển báo Cấm đỗ xe theo giờ trong khu vực có hiệu lực cho tất cả các tuyến đường trong một khu vực (hiệu lực cho cả khu vực).,RE9b
+"R.E,9c",Khu vực đỗ xe,Biển báo khu vực đỗ xe trong khu vực có hiệu lực cho tất cả các tuyến đường trong một khu vực (hiệu lực cho cả khu vực).,RE9c
+"R.E,9d",Hạn chế tốc độ tối đa trong khu vực,Để quy định hạn chế tốc độ tối đa trong khu vực có hiệu lực cho tất cả các tuyến đường trong một khu vực (hiệu lực cho cả khu vực).,RE9d
+"R.E,10a",Hết cấm đỗ xe trong khu vực,Để báo hiệu hết cấm đỗ xe trong khu vực có hiệu lực cho tất cả các tuyến đường trong một khu vực (hiệu lực cho cả khu vực).,RE10a
+"R.E,10a",Hết cấm đỗ xe theo giờ trong khu vực,Để báo hiệu hết cấm đỗ xe theo giờ trong khu vực có hiệu lực cho tất cả các tuyến đường trong một khu vực (hiệu lực cho cả khu vực).,RE10a
+"R.E,10c",Hết khu vực đỗ xe,Để quy định hết khu vực đỗ xe trong khu vực có hiệu lực cho tất cả các tuyến đường trong một khu vực (hiệu lực cho cả khu vực).,RE10c
+"R.E,10d",Hết hạn chế tốc độ tối đa trong khu vực,Để quy định hết hạn chế tốc độ tối đa trong khu vực có hiệu lực cho tất cả các tuyến đường trong một khu vực (hiệu lực cho cả khu vực).,RE10d
+"R.E,11a",Báo hiệu có hầm chui,Chỉ dẫn đoạn đường qua hầm có áp dụng quy định giao thông riêng.,RE11a
+"R.E,11b",Kết thúc hầm chui,"Chỉ dẫn hết đoạn đường qua hầm, các quy định giao thông riêng không còn áp dụng.",RE11b

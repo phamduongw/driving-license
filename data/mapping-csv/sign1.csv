@@ -1,0 +1,63 @@
+id,name,detail,img
+P.101,Đường cấm,"Biển báo đường cấm tất cả các loại phương tiện tham gia giao thông đi lại cả hai hướng, trừ xe ưu tiên theo luật định.",P101
+P.102,Cấm đi ngược chiều,Biển báo đường cấm tất cả các loại phương tiện tham gia giao thông đi vào theo chiều đặt biển.,P102
+P.103a,Cấm ô tô,"Biển báo đường cấm tất cả các loại xe cơ giới kể cả mô tô 3 bánh có thùng đi qua, trừ xe mô tô 2 bánh, xe gắn máy (kể cả xe máy điện) và các xe được ưu tiên theo Luật Giao thông đường bộ.",P103a
+P.103b,Cấm ô tô rẽ phải,"Biển báo đường cấm xe ô tô rẽ phải ( kể cả xe mô tô ba bánh), trừ các xe được ưu tiên theo Luật Giao thông đường bộ.",P103b
+P.103c,Cấm ô tô rẽ trái,"Biển báo đường cấm xe ô tô rẽ trái và cũng không được phép quay đầu xe, trừ các xe được ưu tiên theo Luật Giao thông đường bộ.",P103c
+P.104,Cấm mô tô,"Biển báo đường cấm tất cả các loại mô tô đi qua, trừ các loại xe mô tô được ưu tiên theo Luật Giao thông đường bộ.",P104
+P.105,Cấm ô tô và mô tô,Biển báo đường cấm tất cả xe cơ giới và xe mô tô đi qua trừ xe gắn máy và xe được ưu tiên theo Luật Giao thông đường bộ.,P105
+P.106a,Cấm ô tô tải,"Biển báo đường cấm tất cả các loại xe ô tô tải trừ các xe được ưu tiên theo Luật Giao thông đường bộ, hiệu lực cấm đối với cả máy kéo và xe máy chuyên dùng.",P106a
+P.106b,Cấm ô tô tải theo trọng lượng,Trọng lượng được tính theo tấn ghi trên biển,P106b
+P.106c,Cấm ô tô tải chở hàng nguy hiểm,Biển báo P.106c đường cấm tất cả các loại xe ô tô tải chở hàng nguy hiểm.,P106c
+P.107,Cấm ô tô khách và ô tô tải,"Biển báo đường cấm xe ô tô khách và các loại xe ô tô tải, kể cả máy kéo và xe máy chuyên dùng đi qua, trừ các xe được ưu tiên theo Luật Giao thông đường bộ.",P107
+P.107a,Cấm ô tô khách,Biển báo đường cấm ôtô chở khách đi qua trừ các xe ưu tiên theo quy định. Biển này không cấm xe buýt.,P107a
+P.107b,Cấm xe taxi,Biển báo đường cấm ôtô taxi đi lại. Trường hợp cấm xe ôtô taxi theo giờ thì đặt biển phụ ghi giờ cấm.,P107b
+P.108,Cấm ôtô kéo rơ moóc,"Biển báo đường cấm tất cả các loại xe cơ giới kéo theo rơ moóc kể cả xe mô tô, máy kéo, xe ô tô khách kéo theo rơ moóc đi qua, trừ loại xe ô tô sơ mi rơ moóc và các xe được ưu tiên theo Luật Giao thông đường bộ (có kéo theo rơ moóc).",P108
+P.108a,Cấm xe sơ-mi rơ-moóc,Biển báo đường cấm các loại xe sơ-mi-rơ-moóc và các xe kéo rơ- moóc trừ các xe được ưu tiên (có dạng xe sơ-mi-rơ-moóc hoặc có kéo theo rơ-moóc) theo quy định.,P108a
+P.109,Cấm máy kéo,"Biển báo đường cấm tất cả các loại máy kéo, kể cả máy kéo bánh hơi và bánh xích đi qua.",P109
+P.110a,Cấm xe đạp,Biển báo đường cấm xe đạp đi qua. Biển không có giá trị cấm những người dắt xe đạp.,P110a
+P.110b,Cấm xe đạp thồ,Biển báo đường cấm xe đạp thồ đi qua. Biển không có giá trị cấm người dắt loại xe này.,P110b
+P.111a,Cấm xe gắn máy,Biển báo đường cấm xe gắn máy đi qua. Biển không có giá trị cấm đối với xe đạp.,P111a
+P.112,Cấm người đi bộ,Biển báo đường cấm người đi bộ qua lại.,P112
+P.113,"Cấm xe người kéo, đẩy",Biển báo đường cấm xe người kéo đẩy đi qua. Biển không có giá trị cấm những xe nôi của trẻ em và phương tiện chuyên dùng để đi lại của những người khuyết tật.,P113
+P.114,Cấm xe súc vật kéo,Biển báo đường cấm súc vậtấtt vận tải hàng hóa hoặc hành khách dù kéo xe hay chở trên lưng đi qua.,P114
+P.115,Hạn chế trọng lượng xe,Biển báo đường cấm các loại phương tiện giao thông đường bộ kể cả các xe được ưu tiên theo Luật Giao thông đường bộ có trọng lượng toàn bộ (cả xe và hàng) vượt quá trị số ghi trên biển tính bằng tấn đi qua.,P115
+P.116,Hạn chế trọng lượng trên trục xe,"Biển báo đường cấm các loại phương tiện giao thông đường bộ, kể cả các xe được ưu tiên theo Luật Giao thông đường bộ có trọng lượng toàn bộ (cả xe và hàng) phân bố trên một trục bất kỳ của xe vượt quá trị số ghi trên biển tính bằng tấn đi qua.",P116
+P.117,Hạn chế chiều cao,"Biển có hiệu lực cấm các loại phương tiện giao thông đường bộ đi qua, kể cả các xe được ưu tiên theo Luật Giao thông đường bộ có chiều cao (tính đến điểm cao nhất cả xe và hàng hóa) vượt quá trị số ghi trên biển tính bằng mét đi qua.",P117
+P.118,Hạn chế chiều ngang,Biển có hiệu lực cấm các loại phương tiện giao thông đường bộ kể cả các xe được ưu tiên theo Luật Giao thông đường bộ có chiều ngang (cả xe và hàng hóa) vượt quá trị số ghi trên Biển tính bằng mét đi qua.,P118
+P.119,Hạn chế chiều dài ô tô,"Biển báo đường cấm các loại xe (cơ giới và thô sơ), kể cả các xe được ưu tiên theo Luật Giao thông đường bộ, có độ dài toàn bộ (cả xe và hàng) vượt quá trị số ghi trên biển tính bằng mét đi qua.",P119
+P.120,Hạn chế chiều dài ô tô kéo moóc,"Biển báo đường cấm các loại phương tiện giao thông đường bộ kéo theo rơ moóc kể cả ô tô sơ mi rơ moóc và các xe được ưu tiên theo Luật Giao thông đường bộ kéo theo rơ moóc có độ dài toàn bộ (cả xe, rơ moóc và hàng) vượt quá trị số ghi trên biển đi qua.",P120
+P.121,Cự ly tối thiểu giữa hai xe,"Biển báo xe ô tô phải đi cách nhau một khoảng tối thiểu. Biển có hiệu lực cấm các xe ô tô không được đi cách nhau với cự ly nhỏ hơn trị số ghi trên biển tính bằng mét, kể cả các xe được ưu tiên theo Luật Giao thông đường bộ.",P121
+P.123a,Cấm rẽ trái,"Biển báo đường cấm các loại phương tiện giao thông đường bộ (xe cơ giới và xe thô sơ) rẽ trái, trừ các xe được ưu tiên theo Luật Giao thông đường bộ. Biển không có giá trị cấm quay đầu xe.",P123a
+P.123b,Cấm rẽ phải,"Biển báo đường cấm các loại phương tiện giao thông đường bộ (xe cơ giới và xe thô sơ) rẽ phải, trừ các xe được ưu tiên theo Luật Giao thông đường bộ. Biển không có giá trị cấm quay đầu xe.",P123b
+P.124a,Cấm quay đầu xe,"Biển báo đường cấm các loại phương tiện giao thông đường bộ quay đầu xe theo kiểu chữ U, trừ các xe được ưu tiên theo Luật Giao thông đường bộ. Biển không có giá trị cấm rẽ trái để sang hướng đường khác.",P124a
+P.124b,Cấm ô tô quay đầu,"Biển báo đường cấm xe ô tô và xe mô tô 3 bánh quay đầu xe theo kiểu chữ U, trừ các xe được ưu tiên theo Luật Giao thông đường bộ.",P124b
+P.124c,Cấm rẽ trái và quay đầu xe,"Biển báo cấm các loại xe rẽ trái đồng thời cấm quay đầu, trừ các xe được ưu tiên theo Luật Giao thông đường bộ.",P124c
+P.124d,Cấm rẽ phải và quay đầu xe,"Biển báo cấm các loại xe rẽ phải đồng thời cấm quay đầu, trừ các xe được ưu tiên theo Luật Giao thông đường bộ.",P124d
+P.124e,Cấm ô tô rẽ trái và quay xe,"Biển báo cấm xe ôtô rẽ trái và đồng thời cấm quay đầu phải, trừ các xe được ưu tiên theo Luật Giao thông đường bộ.",P124e
+P.124f,Cấm ô tô rẽ phải và quay xe,"Biển báo cấm xe ôtô rẽ phải và đồng thời cấm quay đầu phải, trừ các xe được ưu tiên theo Luật Giao thông đường bộ.",P124f
+P.125,Cấm vượt,"Biển có hiệu lực cấm tất cả các loại xe cơ giới vượt nhau, kể cả các xe được ưu tiên theo Luật Giao thông đường bộ. được phép vượt xe mô tô 2 bánh, xe gắn máy.
+ển hết hiệu lực cấm khi có biển số DP.133 “Hết cấm vượt” hoặc đến chỗ có biển số DP.135 “Hết tất cả các lệnh cấm” nếu đồng thời có nhiều biển cấm khác hết tác dụng.",P125
+P.126,Cấm ôtô tải vượt,"Biển có hiệu lực cấm các loại ôtô tải có khối lượng chuyên chở (theo Giấy chứng nhận kiểm định an toàn kỹ thuật và bảo vệ môi trường phương tiện giao thông cơ giới đường bộ) lớn hơn 3.500 kg (3,5 tấn) kể cả các xe được ưu tiên theo quy định vượt xe cơ giới khác. được phép vượt xe máy 2 bánh, xe gắn máy. Biển không có giá trị cấm các loại xe cơ giới khác vượt nhau và vượt xe ô tô tải.",P126
+P.127,Tốc độ tối đa cho phép,"Biển có hiệu lực cấm tất cả các loại xe cơ giới đường bộ chạy với tốc độ tối đa vượt quá trị số ghi trên Biển (tính bằng km/h), trừ các xe được ưu tiên theo Luật Giao thông đường bộ.",P127
+P.127a,Tốc độ tối đa cho phép về ban đêm,"Biển có hiệu lực cấm tất cả các loại xe cơ giới đường bộ chạy ban đêm với tốc độ tối đa vượt quá trị số ghi trên biển (tính bằng km/h), trừ một số trường hợp ưu tiên được quy định.",P127a
+P.127b,Tốc độ tối đa trên từng làn đường,Biển ghép tốc độ tối đa cho phép trên từng làn đường,P127b
+P.127c,Tốc độ tối đa phương tiện trên từng làn đường,"Biển ghép tốc độ tối đa cho phép theo phương tiện, trên từng làn đường",P127c
+P.127d,Biển hết hạn chế tốc độ tối đa,Biển hết hạn chế tốc độ tối đa cho phép theo biển ghép,P127d
+P.128,Cấm bóp còi,Biển báo cấm các loại xe cơ giới sử dụng còi.,P128
+P.129,Kiểm tra,"Biển báo nơi đặt trạm kiểm tra, các loại phương tiện vận tải qua đó phải dừng lại để làm thủ tục kiểm tra, kiểm soát theo quy định.",P129
+P.130,Cấm dừng và đỗ xe,"Biển có hiệu lực cấm các loại xe cơ giới đường bộ dừng và đỗ lại ở phía đường có đặt biển,",P130
+P.131a,Cấm đỗ xe,Biển số 131a có hiệu lực cấm các loại xe cơ giới đỗ ở phía đường có đặt biển vào bất kể ngày nào.,P131a
+P.131b,Cấm đỗ xe ngày lẻ,Biển có hiệu lực cấm các loại xe cơ giới đỗ ở phía đường có đặt biển vào những ngày lẻ.,P131b
+P.131c,Cấm đỗ xe ngày chẵn,Biển có hiệu lực cấm các loại xe cơ giới đỗ ở phía đường có đặt biển vào những ngày chẵn.,P131c
+P.132,Nhường cho xe ngược chiều qua đường hẹp,"Biển báo cho các loại phương tiện giao thông đường bộ (cơ giới và thô sơ), kể cả các xe được ưu tiên theo Luật Giao thông đường bộ đi theo chiều nhìn thấy biển phải nhường đường cho các loại xe cơ giới đi theo chiều ngược lại khi đi qua các đoạn đường và cầu hẹp.",P132
+DP.133,Hết cấm vượt,Biển báo cho người lái xe biết hiệu lực của biển số P.125 “Cấm vượt” và biển số P.126 “Cấm ô tô tải vượt” hết tác dụng.,DP133
+DP.134,Hết hạn chế tốc độ tối đa,"Biển báo cho người lái xe biết hiệu lực của biển số P.127 “Hạn chế tốc độ tối đa” hết tác dụng. Kể từ biển này, các xe được phép chạy với tốc độ tối đa đã quy định trong Luật Giao thông đường bộ.",DP134
+DP.135,Hết tất cả các lệnh cấm,"Biển báo cho người lái xe biết hiệu lực của biển số P.121 “Cự ly tối thiểu giữa hai xe” và các biển từ biển số P.125 đến P.131 (a, b, c) được đặt trước đó cùng hết tác dụng.",DP135
+P.136,Cấm đi thẳng,Biển được đặt trước nơi đường giao nhau và có hiệu lực cấm tất cả các loại phương tiện giao thông đường bộ (cơ giới và thô sơ) đi thẳng ở nơi đường giao nhau.,P136
+P.137,Cấm rẽ trái và rẽ phải,Biển được đặt trước nơi đường giao nhau và có hiệu lực cấm tất cả các loại phương tiện giao thông đường bộ (cơ giới và thô sơ) rẽ trái và rẽ phải ở nơi đường giao nhau.,P137
+P.138,Cấm đi thẳng và rẽ trái,Biển được đặt trước nơi đường giao nhau và có hiệu lực cấm tất cả các loại phương tiện giao thông đường bộ (cơ giới và thô sơ) đi thẳng và rẽ trái ở nơi đường giao nhau.,P138
+P.139,Cấm đi thẳng và rẽ phải,Biển được đặt trước nơi đường giao nhau và có hiệu lực cấm tất cả các loại phương tiện giao thông đường bộ (cơ giới và thô sơ) đi thẳng và rẽ phải ở nơi đường giao nhau.,P139
+P.140,Cấm xe công nông và các loại xe tương tự,Biển báo đường cấm tất cả các loại xe công nông và các loại xe tương tự đi qua.,P140
+S.508a,Biển cấm theo giờ,"Khi cần báo hiệu cấm các loại phương tiện giao thông đường bộ theo giờ trong thành phố, thị xã phải đặt biển phụ số S508(a,b) dưới biển cấm và có chú thích bằng tiếng Việt, phụ đề tiếng Anh trong biển này.",S508a
+S.508b,Biển cấm theo giờ,"Khi cần báo hiệu cấm các loại phương tiện giao thông đường bộ theo giờ trong thành phố, thị xã phải đặt biển phụ số S508(a,b) dưới biển cấm và có chú thích bằng tiếng Việt, phụ đề tiếng Anh trong biển này.",S508b

@@ -1,0 +1,11 @@
+id,name,detail,img
+Vạch 1.1 ,"Vạch phân chia hai chiều xe chạy (vạch tim đường), dạng vạch đơn, đứt nét","Áp dụng: dùng để phân chia hai chiều xe chạy ngược chiều nhau ở những đoạn đường có từ 2 làn xe trở lên, không có dải phân cách giữa. Xe được phép cắt qua để sử dụng làn ngược chiều từ cả hai phía.",G11
+Vạch 1.2,"Vạch phân chia hai chiều xe chạy (vạch tim đường), dạng vạch đơn, nét liền","Áp dụng: dùng để phân chia hai chiều xe chạy cho đường có 2 hoặc 3 làn xe, không có dải phân cách giữa; xe không được lấn làn, không được đè lên vạch.",G12
+Vạch 1.3,"Vạch phân chia hai chiều xe chạy ngược chiều (vạch tim đường), dạng vạch đôi, nét liền","Dùng để phân chia hai chiều xe chạy cho đường có từ 4 làn xe trở lên, không có dải phân cách giữa, xe không được lấn làn, không được đè lên vạch. - Trường hợp các đường có 2 hoặc 3 làn xe, dùng để nhấn mạnh sự nguy hiểm.",G13
+Vạch 1.4,"Vạch phân chia hai chiều xe chạy, dạng vạch đôi gồm một vạch nét liền, một vạch nét đứt",,G14
+Vạch 1.5,Vạch xác định ranh giới làn đường có thể thay đổi hướng xe chạy,,G15
+Vạch 2.1,"Vạch phân chia các làn xe cùng chiều, dạng vạch đơn, đứt nét",,G21
+Vạch 2.2,"Vạch phân chia các làn xe cùng chiều, dạng vạch đơn, liền nét.",,G22
+Vạch 7.6,Vạch chỉ dẫn sắp đến chỗ có bố trí vạch đi bộ qua đường,,G76
+Vạch 7.8,Vạch xác định khoảng cách xe trên đường.,"Vạch 7.8 là vạch dùng để xác định khoảng cách trên đường, giúp cho lái xe biết cần phải giãn cách cự ly để đảm bảo an toàn với xe chạy phía trước. Vạch thường được sử dụng trên đường ôtô cao tốc.",G78
+Vạch 9.2,Vạch quy định vị trí dừng đỗ của phương tiện giao thông công cộng trên đường,"Vạch 9.2 quy định vị trí dừng xe của các phương tiện vận tải hành khách công cộng trên đường như xe buýt, xe tắc xi ...",G92

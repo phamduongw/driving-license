@@ -1,0 +1,68 @@
+[
+  {
+    "id": "S.501",
+    "name": "Phạm vi tác dụng của biển",
+    "detail": "Biển được đặt dưới các loại biển báo nguy hiểm, biển báo cấm hoặc hạn chế. Biển thông báo chiều dài đoạn đường nguy hiểm hay đoạn đường phải thi hành lệnh cấm hoặc hạn chế.",
+    "img": "S501"
+  },
+  {
+    "id": "S.502",
+    "name": "Khoảng cách đến đối tượng báo hiệu",
+    "detail": "Biển được đặt dưới các loại biển báo nguy hiểm, biển báo cấm hoặc hạn chế, biển hiệu lệnh và biển chỉ dẫn . Biển thông báo khoảng cách thực tế từ vị trí đặt biển đến đối tượng báo hiệu ở phía trước.",
+    "img": "S502"
+  },
+  {
+    "id": "S.503a",
+    "name": "Hướng tác dụng của biển",
+    "detail": "",
+    "img": "S503a"
+  },
+  {
+    "id": "S.503b",
+    "name": "Hướng tác dụng của biển",
+    "detail": "",
+    "img": "S503b"
+  },
+  {
+    "id": "S.503c",
+    "name": "Hướng tác dụng của biển",
+    "detail": "",
+    "img": "S503c"
+  },
+  {
+    "id": "S.503d",
+    "name": "Hướng tác dụng của biển",
+    "detail": "",
+    "img": "S503d"
+  },
+  {
+    "id": "S.503e",
+    "name": "Hướng tác dụng của biển",
+    "detail": "",
+    "img": "S503e"
+  },
+  {
+    "id": "S.503f",
+    "name": "Hướng tác dụng của biển",
+    "detail": "",
+    "img": "S503f"
+  },
+  {
+    "id": "S.504",
+    "name": "Làn đường",
+    "detail": "",
+    "img": "S504"
+  },
+  {
+    "id": "S.506a",
+    "name": "Hướng đường ưu tiên",
+    "detail": "",
+    "img": "S506a"
+  },
+  {
+    "id": "S.506b",
+    "name": "Hướng đường ưu tiên",
+    "detail": "",
+    "img": "S506b"
+  }
+]
